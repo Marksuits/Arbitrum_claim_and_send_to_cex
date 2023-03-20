@@ -17,7 +17,7 @@ Now download the project, run the main.exe, enter in order:
 4) your private key from the same wallet, where you brand tokens
 
 
-//RUSSIAN INSTRACTION
+//RUSSIAN INSTRUCTION
 Вы можете просто запустить main.exe и следовать инструкциям в консоли или запустить main.py, используя 2 json-файла.
 Переходим на сайт, регистрируемся. 
 Далее заходим в Dashboard где нажимаем "Create APP" и создаём RPC в сети arbitrum. 
