@@ -5,7 +5,7 @@ main.exe are compiled files: main.py, api.json, api_token_arb.json
 
 
 //ENGLISH INSTRUCTION
-You could just run main.exe and follow instructions in the console or run main.py using 2 json files. 
+You could just run main.exe and following isntruction in console or run main.py. 
 There is full instruction how to successfully run code:
 We go to the site (https://alchemy.com) , register. 
 Then go to the Dashboard (https://dashboard.alchemy.com) where you click "Create APP" and create an RPC in the arbitrum network. 
@@ -18,9 +18,9 @@ Now download the project, run the main.exe, enter in order:
 
 
 //RUSSIAN INSTRUCTION
-Вы можете просто запустить main.exe и следовать инструкциям в консоли или запустить main.py, используя 2 json-файла.
-Переходим на сайт, регистрируемся. 
-Далее заходим в Dashboard где нажимаем "Create APP" и создаём RPC в сети arbitrum. 
+Вы можете просто запустить main.exe и следовать инструкциям в консоли или запустить main.py.
+Переходим на сайт(https://alchemy.com), регистрируемся. 
+Далее заходим в Dashboard(https://dashboard.alchemy.com) где нажимаем "Create APP" и создаём RPC в сети arbitrum. 
 Теперь в dashboard жмёте view key в созданном RPC и копируете https адрес. 
 Теперь скачиваете проект запускаете main.exe вводим по порядку: 
 1) https rpc, который вы создали 
