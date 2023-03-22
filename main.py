@@ -29,7 +29,7 @@ gas_price = w3.to_wei('0.1', 'gwei')
 gas_limit = 600000
 
 # Get the current time and the allotted time
-allotted_time = datetime.datetime(2023, 3, 23, 14, 0, 0, 0)
+allotted_time = datetime.datetime(2023, 3, 23, 12, 55, 0, 0)
 current_time = datetime.datetime.utcnow()
 print(f'Время сейчас: {current_time}')
 
