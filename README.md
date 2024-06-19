@@ -15,7 +15,7 @@ Now download the project, run the main.exe, enter in order:
 1) http_provider_for_rpc second rpc you created 
 2) the address of the exchange, where you will send tokens 
 3) your address where you claim tokens 
-4) your private key from the same wallet, where you brand tokens
+4) your private key from the same wallet, where you claim tokens
 
 
 //RUSSIAN INSTRUCTION
@@ -28,4 +28,4 @@ Now download the project, run the main.exe, enter in order:
 1) http_provider_for_rpc второй созданный вами rpc 
 2) адрес биржи, куда вы будете отправлять токены 
 3) ваш адрес, на который вы требуете токены 
-4) ваш приватный ключ с того же кошелька, где вы брендируете токены
+4) ваш приватный ключ с того же кошелька, где вы клеймите токены
